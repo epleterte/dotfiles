@@ -1,4 +1,4 @@
 dotfiles
 ========
 
-dotfiles and stuff
+this repo hosts (hopefully) fairly recent versions of dotfiles of mine
